@@ -1,0 +1,6 @@
+org\o7planning\springmvcrestful\dao\EmployeeDAO.class
+org\o7planning\springmvcrestful\controller\MainRESTController.class
+org\o7planning\springmvcrestful\config\ApplicationContextConfig.class
+org\o7planning\springmvcrestful\config\WebMvcConfig.class
+org\o7planning\springmvcrestful\config\SpringWebAppInitializer.class
+org\o7planning\springmvcrestful\model\Employee.class
